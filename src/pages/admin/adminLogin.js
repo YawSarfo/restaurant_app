@@ -10,7 +10,7 @@ export function renderAdminLogin(container) {
         <div class="text-center mb-4">
           <div style="font-size:3rem">🍽️</div>
           <h1 style="color:#fff;font-size:1.5rem;font-weight:700;margin:0.5rem 0 0">
-            Taste & Table
+            Tasty Bat-El
           </h1>
           <p style="color:#C0392B;font-size:0.75rem;font-weight:600;
                     letter-spacing:2px;text-transform:uppercase;margin:0">
@@ -26,7 +26,7 @@ export function renderAdminLogin(container) {
                  style="width:100%;background:#111;border:1px solid #333;
                         border-radius:8px;color:#fff;padding:0.7rem 1rem;
                         font-size:0.95rem;outline:none;box-sizing:border-box"
-                 value="admin@tasteandtable.com" />
+                 value="admin@tastybatel.com" />
         </div>
 
         <div class="mb-3">

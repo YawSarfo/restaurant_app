@@ -1,5 +1,5 @@
 const ADMIN_CREDENTIALS = {
-  email: "admin@tasteandtable.com",
+  email: "admin@tastybatel.com",
   password: "Admin@1234",
 };
 
